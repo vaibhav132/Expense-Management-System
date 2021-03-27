@@ -50,11 +50,3 @@ ____________________________________________SETUP_______________________________
 
 CONTACT vaibhaverma132@gmail.com
 WEBSITE https://www.linkedin.com/in/vaibhav-anuragi-631a7b161
-
-
-LICENSE AND COPYRIGHT All the images used for this project are representational images.
-I Vaibhav Anuragi do not hold any copyright over these images.
-TRADEMARKS
-1.)The names used in this project are just imaginary, I do not point by any means to anyone or any place by my project.
-2.)Expense Manager and CtrlBudget are not my registered trademarks nor I hold any copyright over the use of these words.
-
