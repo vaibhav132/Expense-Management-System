@@ -1,7 +1,5 @@
 # Expense-Management-System
 
-DESCRIPTION This is the budget management website 
-
 Extract the files from Expense_Manager.zip.
 
 _____________________________________________Folder Structure__________________________________________________
