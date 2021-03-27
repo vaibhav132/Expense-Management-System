@@ -1,0 +1,140 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07-Jan-2021, 8:42:14 pm
+    Author     : Vaibhav
+*/
+body,
+html {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(250, 250, 255);
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+/*body{
+    background: rgb(250, 250, 255) !important;
+}*/
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 130px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/intro.jpg) no-repeat center center;
+    background-size: cover;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 950px;
+}
+footer{
+    /*margin-top: 15px;*/
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+.fixedFooter{
+    position: fixed;
+    bottom: 0;
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    width: 100%;
+}
+.row_style{
+    margin-top: 80px;
+}
+.panel > .panel-heading{
+    background-color: white;
+    border-color: rgb(235,235,235);
+}
+.panel{
+    margin-top: 30px;
+    border-color: rgb(235,235,235);
+}
+.gap{
+    margin-top: 140px;
+}
+.page-margin{
+    margin: 0px 150px 0px 150px;
+}
+.written{
+    font-size: 17px;
+    font-weight: 500;
+}
+#homepage-content{
+    padding-top: 7%;
+    padding-right: 2%;
+    padding-bottom: 7%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background-color: rgba(245, 245, 245);
+    max-width: 300px;
+}
+.u-list {
+    list-style-type: none;
+}
+.list-color{
+    color: rgb(70,150,120);
+}
+.panel > .panel-heading-color{
+    background-color: rgb(65, 135, 125);
+    text-align: center; color: white;
+}
+.panelfont{
+    /*font-size: 17px;*/
+    font-weight: 600;
+}
+.buttonhover {
+  text-align: center;
+  display: inline-block;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1 {
+  background-color: white; 
+  color: rgb(65, 135, 125); 
+  border: 2px solid rgb(65, 135, 125);
+}
+.button1:hover {
+  background-color: rgb(65, 135, 125);
+  color: white;
+}
+.button_ed{
+    margin-top: 100px;
+    padding: 15px 15px;
+}
+.pass_block{
+    max-width: 400px;
+}
+.red{
+    color: red;
+}
+.add_plus{
+    font-size: 50px;
+    float: right;
+    position: absolute;
+    bottom: 50px;
+    right: 20px;
+}
+.glyph_1{
+    color: rgb(65, 135, 125);    
+}
