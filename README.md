@@ -41,11 +41,11 @@ _____________________________________________Folder Structure___________________
 	└──  viewplan.php
 
 ____________________________________________SETUP_________________________________________________________________________________________				
-1.) Start the Apache and MySQL modules using the WAMP controller.
-2.) Open the phpMyAdmin and create a database xpense_manager.
-3.) Import the xpense_manager.sql file present in the zip folder.
-4.) Open the www folder in the wamp folder. Copy paste the folder CtrlBudget.
-5.) Open the browser (chrome), type localhost/CtrlBudget and you should see the index page of the website.
+1. Start the Apache and MySQL modules using the WAMP controller.
+2. Open the phpMyAdmin and create a database xpense_manager.
+3. Import the xpense_manager.sql file present in the zip folder.
+4. Open the www folder in the wamp folder. Copy paste the folder CtrlBudget.
+5. Open the browser (chrome), type localhost/CtrlBudget and you should see the index page of the website.
 
 
 CONTACT vaibhaverma132@gmail.com
