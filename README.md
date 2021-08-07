@@ -10,7 +10,7 @@ _____________________________________________Folder Structure___________________
 	│    └── style.css
 	│
 	├── database (Database of the project)
-	│    └── style.css
+	│    └── xpense_manager.sql
 	│
 	├──  img
 	│    └── (contains all images required for developing the website)
